@@ -66,7 +66,3 @@ Ce document résume les bases de **Git** et **GitHub**, leur utilité et les pri
   - Service en ligne basé sur Git.  
   - Nécessite une connexion internet.  
   - Permet le partage, la collaboration et la gestion centralisée des dépôts.
-
----
-
-👉 Avec cette base, tu peux travailler efficacement seul ou en équipe, en suivant l’évolution de ton projet étape par étape.  
